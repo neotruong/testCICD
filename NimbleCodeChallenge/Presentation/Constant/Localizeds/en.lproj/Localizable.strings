@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  NimbleCodeChallenge
+
+  Created by Neo Truong on 8/30/24.
+  
+*/
+
+"auth.email" = "Email";
+"auth.password" = "Password";
+"auth.forgot" = "Forgot?";
+"auth.login" = "Log in";
+
+"forgot.des" = "Enter your email to receive instructions for resetting your password.";
+"forgot.reset" = "Reset";
+
+"home.takeSurvey" = "Take This Survey";
+"sucessSurvey.thanks" = "Thanks for taking the survey.";

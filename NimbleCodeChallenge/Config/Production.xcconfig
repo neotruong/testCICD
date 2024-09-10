@@ -1,0 +1,13 @@
+//
+//  Production.xcconfig
+//  NimbleCodeChallenge
+//
+//  Created by Neo Truong on 9/3/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+SERVER_BASE_URL = survey-api.nimblehq.co
+API_VERSION = /api/v1/
+CLIENT_SECRET = lMQb900L-mTeU-FVTCwyhjsfBwRCxwwbCitPob96cuU
+CLIENT_ID = ofzl-2h5ympKa0WqqTzqlVJUiRsxmXQmt5tkgrlWnOE
